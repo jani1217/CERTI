@@ -1,6 +1,7 @@
 import  { useState } from 'react';
 import PropTypes from 'prop-types'; // Import PropTypes for prop type validation
 import './App.css'; // Import your CSS file for styling
+import * as XLSX from 'xlsx';
 
 const NavBar = () => {
     return (
