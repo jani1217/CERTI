@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import  { useState } from 'react';
 import PropTypes from 'prop-types'; // Import PropTypes for prop type validation
 import './App.css'; // Import your CSS file for styling
@@ -102,3 +103,5 @@ const App = () => {
 };
 
 export default App;
+=======
+>>>>>>> 7599acc205771a9201a12e50dec95dc21b08314a
